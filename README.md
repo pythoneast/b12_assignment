@@ -4,7 +4,7 @@
 <b>First problem</b>
 
 <ol>
-  <li>There are 2 separate SQL query blocks for MySQL and SQLite3 in the file named 'first_task.sql'. MySQL has more data types and functionality.</li>
+  <li>There are 2 separate SQL query blocks for MySQL and SQLite3 in the file named 'first_task.sql'.</li>
 </ol>
 
 <b>Second problem</b>
