@@ -1,0 +1,3 @@
+The first task was tested in MySQL and SQLite3.
+The second task needs installed python (at least version 3.6) and the haversine python package. To do it just type "pip install -r requirements.txt". To run the script you need to type command as "python3 second_task.py --from Stambul --to Moscow Minsk Paris". Youc can change Stambul, Moscow, Minsk and Paris to another city names, and you'll get the best flight information.
+If you have any question about the assignment, feel free to contact me. My email: mrpalitaev@gmail.com
