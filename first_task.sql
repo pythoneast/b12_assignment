@@ -77,7 +77,7 @@ GROUP BY source;
 	between users and businesses tables. To do this we must create
 	an intermediate table users_businesses that mainly stores the primary keys
 	of each relationship. There will be 3 fields in users_businesses table: id
-	for <relationships></relationships> object, id_users for user id and
+	for relationship object, id_users for user id and
 	id_businesses for business id. Also we need to set id_users and
 	id_businesses as foreign keys to link users and businesses tables together.
 	As for conversion analysis, if we use every relationship between two tables
@@ -166,7 +166,7 @@ GROUP BY source;
 	between users and businesses tables. To do this we must create
 	an intermediate table users_businesses that mainly stores the primary keys
 	of each relationship. There will be 3 fields in users_businesses table: id
-	for <relationships></relationships> object, id_users for user id and
+	for relationship object, id_users for user id and
 	id_businesses for business id. Also we need to set id_users and
 	id_businesses as foreign keys to link users and businesses tables together.
 	As for conversion analysis, if we use every relationship between two tables
